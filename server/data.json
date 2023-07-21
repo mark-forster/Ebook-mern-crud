@@ -1,0 +1,35 @@
+
+[
+    {
+        "_id":{"$oid":"64a3bbd7d337b6a20adf005e"},
+        "title": " The Great Gatsby",
+        "slug":"Thie Greate Gatsby",
+        "description": " Hello welcome to the great gatsby",
+        "image":"https://www.bing.com/images/search?view=detailV2&ccid=Bo%2bHRLoE&id=FBA531262B444D1FA6962EF003203F97455E8327&thid=OIP.Bo-HRLoEO0ahTTDr8CbpLwHaGe&mediaurl=https%3a%2f%2finsidesources.com%2fwp-content%2fuploads%2f2014%2f06%2fbigstock-A-pile-of-books-with-library-o-54563726.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.068f8744ba043b46a14d30ebf026e92f%3frik%3dJ4NeRZc%252fIAPwLg%26pid%3dImgRaw%26r%3d0&exph=1400&expw=1600&q=books&simid=608037820542485917&form=IRPRST&ck=D0F20E19B7C4A3DFFE270C6022C143A7&selectedindex=0&ajaxhist=0&ajaxserp=0&first=1",
+        "category":["romance","sciences"]
+    },
+    {
+        "_id":{"$oid":"64a3bbd7d338b6a90adf005e"},
+        "title": " The Great Gatsby",
+        "slug":"Thie Greate Gatsby",
+        "description": " Hello welcome to the great gatsby",
+        "image":"https://www.bing.com/images/search?view=detailV2&ccid=Bo%2bHRLoE&id=FBA531262B444D1FA6962EF003203F97455E8327&thid=OIP.Bo-HRLoEO0ahTTDr8CbpLwHaGe&mediaurl=https%3a%2f%2finsidesources.com%2fwp-content%2fuploads%2f2014%2f06%2fbigstock-A-pile-of-books-with-library-o-54563726.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.068f8744ba043b46a14d30ebf026e92f%3frik%3dJ4NeRZc%252fIAPwLg%26pid%3dImgRaw%26r%3d0&exph=1400&expw=1600&q=books&simid=608037820542485917&form=IRPRST&ck=D0F20E19B7C4A3DFFE270C6022C143A7&selectedindex=0&ajaxhist=0&ajaxserp=0&first=1",
+        "category":["romance","sciences"]
+    },
+    {
+        "_id":{"$oid":"64a3bbd7d338b6a45adf005e"},
+        "title": " The Great Gatsby",
+        "slug":"Thie Greate Gatsby",
+        "description": " Hello welcome to the great gatsby",
+        "image":"https://www.bing.com/images/search?view=detailV2&ccid=Bo%2bHRLoE&id=FBA531262B444D1FA6962EF003203F97455E8327&thid=OIP.Bo-HRLoEO0ahTTDr8CbpLwHaGe&mediaurl=https%3a%2f%2finsidesources.com%2fwp-content%2fuploads%2f2014%2f06%2fbigstock-A-pile-of-books-with-library-o-54563726.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.068f8744ba043b46a14d30ebf026e92f%3frik%3dJ4NeRZc%252fIAPwLg%26pid%3dImgRaw%26r%3d0&exph=1400&expw=1600&q=books&simid=608037820542485917&form=IRPRST&ck=D0F20E19B7C4A3DFFE270C6022C143A7&selectedindex=0&ajaxhist=0&ajaxserp=0&first=1",
+        "category":["romance","sciences"]
+    },
+    {
+        "_id":{"$oid":"64a3bbd7d338b6a79adf005e"},
+        "title": " The Great Gatsby",
+        "slug":"Thie Greate Gatsby",
+        "description": " Hello welcome to the great gatsby",
+        "image":"https://www.bing.com/images/search?view=detailV2&ccid=Bo%2bHRLoE&id=FBA531262B444D1FA6962EF003203F97455E8327&thid=OIP.Bo-HRLoEO0ahTTDr8CbpLwHaGe&mediaurl=https%3a%2f%2finsidesources.com%2fwp-content%2fuploads%2f2014%2f06%2fbigstock-A-pile-of-books-with-library-o-54563726.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.068f8744ba043b46a14d30ebf026e92f%3frik%3dJ4NeRZc%252fIAPwLg%26pid%3dImgRaw%26r%3d0&exph=1400&expw=1600&q=books&simid=608037820542485917&form=IRPRST&ck=D0F20E19B7C4A3DFFE270C6022C143A7&selectedindex=0&ajaxhist=0&ajaxserp=0&first=1",
+        "category":["romance","sciences"]
+    }
+]

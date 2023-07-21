@@ -1,0 +1,32 @@
+
+.nav{
+  background:gray;
+  height: 60px;
+  font-weight: bold !important;
+  color:white
+}
+.nav a{
+  margin-top: 10px !important;
+  margin-left: 30px;
+  font-size: 40px !important;
+}
+.logo{
+  font-size: 40px;
+  font-weight: bolder !important;
+  text-decoration: none;
+
+}
+.editBtn{
+  padding: 10px 40px;
+  background-color: red;
+  color:white;
+}
+
+.footer{
+   margin-top:80px;
+   background-color: blueviolet;
+   height: 100px;
+   align-items: center !important;
+   justify-content: center !important;
+   text-align: center !important;
+}
